@@ -1,8 +1,8 @@
 """
-Problem:
-Approach:
-Time Complexity:
-Space Complexity:
+Problem :
+Approach :
+Time Complexity :
+Space Complexity :
 """
 
 class Solution:

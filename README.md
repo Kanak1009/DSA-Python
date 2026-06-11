@@ -40,14 +40,14 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 | Section | Problems | Status |
 |----------|----------|----------|
 | Things-To-Know | 9/9 | ✅ Completed |
-| Build-Up Logical Thinking | 0/2 | ⬜ Pending |
-| Patterns | 0/22 | ⬜ Pending |
+| Build-Up Logical Thinking | 2/2 | ✅ Completed |
+| Patterns | 3/22 | 🔄 In Progress |
 | Learn STL | 0/2 | ⬜ Pending |
 | Basic Maths | 0/7 | ⬜ Pending |
 | Basic Recursion | 0/9 | ⬜ Pending |
 | Basic Hashing | 0/3 | ⬜ Pending |
 
-**Progress:** 9 / 54
+**Progress:** 14 / 54
 
 ---
 
@@ -184,9 +184,9 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 
 | Metric | Count |
 |----------|----------|
-| Total Problems Solved | 9 |
+| Total Problems Solved | 14 |
 | Total Problems in Sheet | 455+ |
-| Progress | 1.98% |
+| Progress | 3.08% |
 
 ---
 
@@ -215,16 +215,7 @@ Step-11-Trees/
 Step-12-BST/
 Step-13-Graphs/
 Step-14-Dynamic-Programming/
-
-Daily-Logs/
 ```
-
----
-
-# 🔥 Current Streak
-
-- Day 1 ✅
-- Current Streak: 1 Day
 
 ---
 
@@ -234,6 +225,7 @@ Daily-Logs/
 - Solve 450+ DSA Problems
 - Build strong interview-ready DSA skills
 - Maintain GitHub consistency
+- Develop a habit of solving problems daily
 
 ---
 
