@@ -6,7 +6,7 @@ Completed:
 - Pattern 13
 - Pattern 14
 - Pattern 15
-- Pattern 15
+- Pattern 16
 
 Total Problems Solved: 4
 
