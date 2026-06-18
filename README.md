@@ -43,11 +43,11 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 | Build-Up Logical Thinking | 2/2 | ✅ Completed |
 | Patterns | 22/22 | ✅ Completed |
 | Learn STL | 2/2 | ✅ Completed |
-| Basic Maths | 4/7 | 🔄 In Progress |
+| Basic Maths | 7/7 | ✅ Completed |
 | Basic Recursion | 0/9 | ⬜ Pending |
 | Basic Hashing | 0/3 | ⬜ Pending |
 
-**Progress:** 39 / 54
+**Progress:** 42 / 54
 
 ---
 
@@ -184,9 +184,9 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 
 | Metric | Count |
 |----------|----------|
-| Total Problems Solved | 39 |
+| Total Problems Solved | 42 |
 | Total Problems in Sheet | 455+ |
-| Progress | 8.57% |
+| Progress | 9.2% |
 
 ---
 
