@@ -44,10 +44,10 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 | Patterns | 22/22 | ✅ Completed |
 | Learn STL | 2/2 | ✅ Completed |
 | Basic Maths | 7/7 | ✅ Completed |
-| Basic Recursion | 3/9 | 🔄 In Progress |
+| Basic Recursion | 9/9 | ✅ Completed |
 | Basic Hashing | 0/3 | ⬜ Pending |
 
-**Progress:** 45 / 54
+**Progress:** 49 / 54
 
 ---
 
@@ -184,9 +184,9 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 
 | Metric | Count |
 |----------|----------|
-| Total Problems Solved | 45 |
+| Total Problems Solved | 49 |
 | Total Problems in Sheet | 455+ |
-| Progress | 9.8% |
+| Progress | 10.7% |
 
 ---
 
