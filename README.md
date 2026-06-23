@@ -55,7 +55,7 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 
 | Section | Status |
 |----------|----------|
-| Sorting Techniques | 🔄 In Progress |
+| Sorting Techniques | ✅ Completed |
 
 ---
 
@@ -184,9 +184,9 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 
 | Metric | Count |
 |----------|----------|
-| Total Problems Solved | 57 |
+| Total Problems Solved | 61 |
 | Total Problems in Sheet | 455+ |
-| Progress | 12.5% |
+| Progress | 13.4% |
 
 ---
 
