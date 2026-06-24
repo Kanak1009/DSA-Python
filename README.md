@@ -63,7 +63,7 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 
 | Section | Status |
 |----------|----------|
-| Easy | ⬜ Pending |
+| Easy | 🔄 In Progress |
 | Medium | ⬜ Pending |
 | Hard | ⬜ Pending |
 
@@ -184,9 +184,9 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 
 | Metric | Count |
 |----------|----------|
-| Total Problems Solved | 61 |
+| Total Problems Solved | 65 |
 | Total Problems in Sheet | 455+ |
-| Progress | 13.4% |
+| Progress | 14.28% |
 
 ---
 
