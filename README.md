@@ -184,9 +184,9 @@ This repository contains my solutions to **Striver's A2Z DSA Sheet** using **Pyt
 
 | Metric | Count |
 |----------|----------|
-| Total Problems Solved | 65 |
+| Total Problems Solved | 69 |
 | Total Problems in Sheet | 455+ |
-| Progress | 14.28% |
+| Progress | 15.1% |
 
 ---
 
